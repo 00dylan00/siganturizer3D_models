@@ -1,0 +1,8 @@
+data/
+scripts/logs/
+playground/
+downloads/
+output/old*
+output/models
+output/results
+xgboost-env.sif

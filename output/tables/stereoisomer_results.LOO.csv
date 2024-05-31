@@ -1,0 +1,8 @@
+descriptor,accuracy,total_targets,random
+a1.signaturizer,0.33 ± 0.47,16,0.481 ± 0.079
+b4.signaturizer,0.33 ± 0.47,16,0.481 ± 0.079
+b4.signaturizer3d,0.42 ± 0.5,16,0.481 ± 0.079
+ecfp4,0.33 ± 0.47,16,0.481 ± 0.079
+ecfp4.useChirality,0.53 ± 0.5,16,0.481 ± 0.079
+mapc,0.52 ± 0.5,16,0.481 ± 0.079
+unimol,0.5 ± 0.5,16,0.481 ± 0.079
