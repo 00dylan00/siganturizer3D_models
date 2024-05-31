@@ -23,5 +23,5 @@ All models were trained using XGBoost (default parameters) and using identical t
 Standard metrics where evaluated - ROC AUC, PR AUC, Precision, Recall, MCC, F1-Score, Accuracy & Balanced Accuracy. Given data imbalances special emphasis on PR AUC as main metric to look at. 
 
 ## Results
-![PR AUC](output/figures/boxplot_auprc.png "PR AUC")
+<img src="output/figures/boxplot_auprc.png" alt="PR AUC" width="300", height="300" />
 Precision-Recall AUC evaluation of models using different descriptors for target w/ 5+, 50+, 100+ & 200+ active compounds. For targets w/ 50+ active compounds Signaturizer3D shows a higher performance. Expected random is <0.1 for all models.
